@@ -1,4 +1,4 @@
-# Database Administrator & System Administrator
+# Database & System Administrator
 
 ## 👋 About Me
 BCA final-year student with a strong focus on **Database Administration** and **System Administration**.  

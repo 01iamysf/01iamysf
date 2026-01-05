@@ -1,16 +1,41 @@
-## Hi there 👋
+# Database Administrator & System Administrator
 
-<!--
-**01mdyusuf/01mdyusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+BCA final-year student with a strong focus on **Database Administration** and **System Administration**.  
+Skilled in SQL, Linux, and core system management concepts, with hands-on practice in database operations, user access control, and system maintenance.  
+Seeking an entry-level role to work with production systems, learn from experienced teams, and grow as a reliable infrastructure professional.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education
+**Bachelor of Computer Applications**  
+- Integral University, Lucknow  
+- 2023 – 2026
+- Final Year
+
+---
+
+## 📚 Technical Knowledge
+- SQL & Database Management
+- Linux & System Administration
+- Git & GitHub
+- Basic DevOps concepts
+- Networking concepts
+- Virtual machines & Docker
+- MERN Stack fundamentals
+- Debugging and problem-solving
+
+---
+
+## 🎯 Career Objective
+Entry-level Database / System Administrator seeking hands-on experience and long-term growth.
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/01mdyusuf  
+- Email: 01mdyusuf2004@gmail.com
+- Portfolio: https://01mdyusuf.github.io/My-Portfolio/
+
+

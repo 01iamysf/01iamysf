@@ -19,13 +19,13 @@ Seeking an entry-level role to work with production systems, learn from experien
 ## 📚 Technical Knowledge
 - SQL & Database Management
 - Linux & System Administration
+- Python Language 
 - Git & GitHub
-- Basic DevOps concepts
 - Networking concepts
 - Virtual machines & Docker
+- Basic DevOps concepts
 - MERN Stack fundamentals
-- Debugging and problem-solving
-
+- 
 ---
 
 ## 🎯 Career Objective

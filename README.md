@@ -25,7 +25,7 @@ Seeking an entry-level role to work with production systems, learn from experien
 - Virtual machines & Docker
 - Basic DevOps concepts
 - MERN Stack fundamentals
-- 
+  
 ---
 
 ## 🎯 Career Objective

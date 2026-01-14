@@ -37,6 +37,6 @@ Entry-level Database / System Administrator seeking hands-on experience and long
 - GitHub: https://github.com/01iamysf
 - Email: 01iamysf@gmail.com
 - Linkedin: www.linkedin.com/in/01iamysf
-- Portfolio: https://01iamysf.github.io/My-Portfolio/
+- Portfolio: https://01iamysf.github.io/404/
 
 

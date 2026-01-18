@@ -7,7 +7,7 @@ Working with SQL, Oracle Database 23c, Linux system operations and Python script
 
 What I Know:
 - Database user & storage management
-- Backup, monitoring, and basic performance concepts
+- Backup, monitoring, and performance concepts
 - Linux system administration fundamentals
 - Python for automation and scripting
   

@@ -1,42 +1,22 @@
-# Database & System Administrator
+# Md Yusuf
 
-## 👋 About Me
-BCA final-year student with a strong focus on **Database Administration** and **System Administration**.  
-Skilled in SQL, Linux, and core system management concepts, with hands-on practice in database operations, user access control, and system maintenance.  
-Seeking an entry-level role to work with production systems, learn from experienced teams, and grow as a reliable infrastructure professional.
-
+Database and System Administration enthusiast.  
+Working with SQL, Oracle Database 23c, Linux system operations and Python scripting.
 
 ---
 
-## 🎓 Education
-**Bachelor of Computer Applications**  
-- Integral University, Lucknow  
-- 2023 – 2026
-- Final Year
-
----
-
-## 📚 Technical Knowledge
-- SQL & Database Management
-- Linux & System Administration
-- Python Language 
-- Git & GitHub
-- Networking concepts
-- Virtual machines & Docker
-- Basic DevOps concepts
-- MERN Stack fundamentals
+What I Know:
+- Database user & storage management
+- Backup, monitoring, and basic performance concepts
+- Linux system administration fundamentals
+- Python for automation and scripting
   
----
 
-## 🎯 Career Objective
-Entry-level Database / System Administrator seeking hands-on experience and long-term growth.
+Interested in entry-level DBA / System Administrator roles and hands-on infrastructure work.
 
 ---
-
-## 📫 Contact
-- GitHub: https://github.com/01iamysf
-- Email: 01iamysf@gmail.com
-- Linkedin: www.linkedin.com/in/01iamysf
-- Portfolio: https://01iamysf.github.io/404/
-
+Contact:
+- GitHub: https://github.com/01iamysf  
+- LinkedIn: https://www.linkedin.com/in/01iamysf
+- Portfolio:
 

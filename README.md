@@ -6,10 +6,11 @@ Working with SQL, Oracle Database 23c, Linux system operations, Python scripting
 ---
 
 What I Know:
-- Database user & storage management
+- Database & storage management 
 - Backup, monitoring, and performance concepts
 - Linux system administration fundamentals
 - Python for automation and scripting
+- DBA roles & responsibilities
   
 
 Interested in entry-level DBA / System Administrator roles and hands-on infrastructure work.

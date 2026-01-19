@@ -1,7 +1,7 @@
 # Md Yusuf
 
 Database and System Administration enthusiast.  
-Working with SQL, Oracle Database 23c, Linux system operations and Python scripting.
+Working with SQL, Oracle Database 23c, Linux system operations Python scripting and Shell Scripting.
 
 ---
 

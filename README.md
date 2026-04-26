@@ -2,7 +2,7 @@
 
 System Admin passionate about web development.
 
-Skilled with SQL, Python, Mongodb, Oracle 23c, Linux, Nodejs/Expresjs, React.
+Skilled with SQL, Python, Mongodb, Expresjs/Nodejs, React, Oracle 23c, Linux.
 
 ---
 

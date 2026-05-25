@@ -1,8 +1,8 @@
 # Md Yusuf
 
-System Admin passionate about web development.
+Software Engineer.
 
-Skilled with SQL, Python, Mongodb, Expresjs/Nodejs, React, Oracle 23c, Linux.
+Skilled with SQL, Python, Mongodb, Expresjs/Nodejs, React, React Native, Oracle 23c, Linux, SysAdmin.
 
 ---
 

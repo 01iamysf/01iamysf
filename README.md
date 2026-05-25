@@ -1,8 +1,17 @@
 # Md Yusuf
 
-Software Engineer.
+### Software Engineer
 
-Skilled with SQL, Python, Mongodb, Expresjs/Nodejs, React, React Native, Oracle 23c, Linux, SysAdmin.
+Skilled with:
+
+- SQL
+- Python
+- Mongodb
+- Expresjs/Nodejs
+- React
+- React Native
+- Oracle 23c
+- Linux, SysAdmin
 
 ---
 

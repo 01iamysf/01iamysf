@@ -10,6 +10,7 @@ Skilled with:
 - Expresjs/Nodejs
 - React
 - React Native
+- n8n
 - Oracle 23c
 - Linux, SysAdmin
 

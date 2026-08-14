@@ -4,15 +4,13 @@
 
 Skilled with:
 
-- SQL
-- Python
-- Mongodb
-- Expresjs/Nodejs
-- React
-- React Native
-- n8n
-- Oracle 23c
-- Linux, SysAdmin
+- Mongodb & SQL
+- PHP, Python, Javascript
+- Expresjs & Nodejs
+- React & React Native
+- n8n, Automation & Integration 
+- SysAdmin & Linux
+- SEO & Web Optimization
 
 ---
 

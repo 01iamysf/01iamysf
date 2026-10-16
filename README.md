@@ -7,9 +7,9 @@ Skilled with:
 - Mongodb & SQL
 - PHP, Python, Javascript
 - Expresjs & Nodejs
-- React & React Native
+- React, Nextjs, React Native
 - n8n, Automation & Integration 
-- SysAdmin & Linux
+- SysAdmin, Docker, Linux, Linux Server
 - SEO & Web Optimization
 
 ---
